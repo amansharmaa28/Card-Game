@@ -101,6 +101,6 @@ body {
 }
 
 .restartButton:hover {
-    background-color:rgba(223, 71, 25, 0.651);
+  background-color:rgba(26, 87, 201, 0.575);
     box-shadow: -2px 2px 19px 1px yellow;
 }
